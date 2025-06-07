@@ -1,7 +1,7 @@
 import os
 
 IGNORED_DIRS = {'.git', '__pycache__', 'venv', '.idea', '.vscode', 'node_modules'}
-IGNORED_FILES = {'.DS_Store', 'summary_tree.txt'}
+IGNORED_FILES = {'.DS_Store', 'summary_tree.txt', 'Screenshot.png', 'agentcrafter-codemap.txt'}
 IGNORED_EXTENSIONS = {'.exe', '.code-workspace'}
 
 def generate_tree(path='.', prefix=''):

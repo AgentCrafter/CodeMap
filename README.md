@@ -36,8 +36,7 @@ This will generate a `summary_tree.txt` file containing the tree structure of th
 
 ## Screenshot
 
-![Project Screenshot](im/Screenshot.png)
-*Update the image path or file as needed to match your project's visuals.*
+![Project Screenshot](Screenshot.png)
 
 ## Contributing
 
