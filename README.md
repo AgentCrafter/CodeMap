@@ -2,7 +2,7 @@
 
 **CodeMap** is a Python-based tool designed to generate a hierarchical (tree-like) representation of your project's folder structure, allowing developers to quickly visualize internal organization while ignoring unnecessary files.
 
-![Release Assets](assets/preview.png)
+![Release Assets](Screenshot.png)
 
 ---
 
