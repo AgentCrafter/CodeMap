@@ -5,7 +5,7 @@ __pycache__/
 *.code-workspace
 *.exe
 summary_tree.txt
-agentcrafter-codemap.txt
+gitingest.txt
 
 # C extensions
 *.so
